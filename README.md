@@ -2,7 +2,7 @@
 An embedded project utilizing 4 Arduino UNO boards and C++ to create a novelty Evil Teddy Bear toy.
 
 ## DEMO VIDEO
-
+https://youtu.be/zxRhN8gBkFg
 
 ## Overview and Design
 The Evil Teddy Bear is a horror-inspired toy designed with 4 Arduino UNO boards that communicate using I2C to coordinate and control multiple different mechanical and audiovisual devices attached to the bear.
