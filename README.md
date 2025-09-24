@@ -25,7 +25,7 @@ user interaction with the toy, along with an LCD screen and a button for informa
 * The **audio** board controls the DF Player Mini chip and the speaker. It updates and outputs the bear's dialogue audio from an SD card based on the bear's current scariness level.
 * The **LED** board controls the red LEDs for the bear's eyes.
 
-## Example
+## Examples
 ![bear front2](https://github.com/user-attachments/assets/d7f8ddcb-54a8-48e6-be55-e657d51e0a9f)
 
 ![bear back](https://github.com/user-attachments/assets/e4eccea3-2623-4058-95b8-f751536db85c)
